@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi501", "CSharpEgitimKampi501\CSharpEgitimKampi501.csproj", "{F182626E-5602-4BBB-B605-32268FE44D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F182626E-5602-4BBB-B605-32268FE44D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F182626E-5602-4BBB-B605-32268FE44D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F182626E-5602-4BBB-B605-32268FE44D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F182626E-5602-4BBB-B605-32268FE44D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258F7250-5EC7-43F3-B0D9-FB4184C6E536}
+	EndGlobalSection
+EndGlobal
